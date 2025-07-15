@@ -2,7 +2,7 @@
 templateKey: index-page
 title: 
 image: /img/baner1.png
-heading: Kenalan dengan Niana Cake'tag
+# heading: Kenalan dengan Niana Cake'tag
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: SELAMAT DATANG DI WEBSITE Nianacake'TAG
@@ -13,7 +13,7 @@ mainpitch:
     
     Kami percaya, setiap kue bukan hanya soal rasa, tapi tentang momen hangat yang tak tergantikan. Itulah kenapa proses kami bukan sekadar produksi  tapi ritual. Mulai dari menakar tepung, mencampur adonan, memanggang dengan hati-hati, hingga menghias dengan penuh detail, semuanya kami lakukan secara manual, dengan tangan-tangan terampil dan hati yang mencintai proses.
 
-    Nianacake'Tag hadir untuk kamu yang rindu akan rasa otentik, tampilan cantik, dan kualitas premium dalam setiap suguhan. Cocok untuk hadiah, hampers, camilan sore, atau perayaan hari besar. Kami tidak menjual produk massal  kami mengirimkan kebahagiaan yang bisa kamu cicipi.
+    Cocok untuk hadiah, hampers, camilan sore, atau perayaan hari besar. Kami tidak menjual produk massal  kami mengirimkan kebahagiaan yang bisa kamu cicipi.
 
 
 
@@ -21,24 +21,11 @@ description: >-
 
   
 subdescription: 
-  Niana Caketag adalah toko kue online yang menghadirkan aneka kue lezat homemade yang telah menjadi favorit semua kalangan. Tidak hanya cookies, kami juga menyediakan beragam pilihan cake premium buatan rumahan yang cocok untuk segala usia dan suasana.
+  Tidak hanya cookies, kami juga menyediakan beragam pilihan cake premium buatan rumahan yang cocok untuk segala usia dan suasana.
 
   Mulai dari cookies yang renyah dengan rasa kekinian, cake lembut yang pas untuk perayaan ulang tahun, hingga dessert box manis yang cocok untuk camilan sore, semua dibuat dengan penuh ketulusan dan tanpa bahan pengawet. Setiap produknya diracik menggunakan bahan berkualitas dan proses rumahan yang higienis serta penuh cinta.
 
   Niana Caketag cocok untuk siapa saja yang menginginkan kue enak dengan rasa autentik dan tampilan menarik. Baik untuk anak-anak, remaja, hingga orang dewasa, semua bisa menikmati kelezatan kue dari Niana Caketag. Produk kami juga ideal untuk berbagai kebutuhan seperti hampers, bingkisan ulang tahun, oleh-oleh, atau sebagai teman minum teh di sore hari.
-
-  Mengapa memilih Nianacake'Tag 
-
-  Kue homemade tanpa bahan pengawet, Varian produk lengkap mulai dari cookies, cake, hingga dessert box,
-  Cocok untuk hadiah, acara spesial, dan camilan harian
-  Rasa enak, tampilan menarik, dan kualitas premium
-
-  Jelajahi katalog lengkap kami dan temukan kue favoritmu hanya di website resmi Niana Caketag
-
-
-  Niana Caketag
-  Rasa manis buatan rumah yang dicintai semua generasi
-
 
 
 

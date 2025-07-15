@@ -1,10 +1,10 @@
 module.exports = {
   siteMetadata: {
-    title: "NianaStoree",
+    title: "Nianacake",
     description:"Order cookies premium homemade di Nianacake'Tag. Fresh from oven, tanpa pengawet, dengan pilihan rasa lezat. Tersedia hampers eksklusif dan layanan pengiriman cepat ",
     author:"nadzwa salsabilah",
     keywords:"Order cookies premium homemade di Nianacake'Tag. Dibuat fresh setiap hari tanpa pengawet. Tersedia varian cookies lezat dan hampers eksklusif untuk semua momen spesial!",
-    url: "https://nianastore.biz.id/",
+    url: "https://nianacake.online/",
     },
 
   plugins: [
