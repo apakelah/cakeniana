@@ -3,7 +3,7 @@ module.exports = {
     title: "Nianacake",
     description:"Order cookies premium homemade di Nianacake'Tag. Fresh from oven, tanpa pengawet, dengan pilihan rasa lezat. Tersedia hampers eksklusif dan layanan pengiriman cepat ",
     author:"nadzwa salsabilah",
-    keywords:"Order cookies premium homemade di Nianacake'Tag. Dibuat fresh setiap hari tanpa pengawet. Tersedia varian cookies lezat dan hampers eksklusif untuk semua momen spesial!",
+    keywords:"cookies,homade,cookies premium, cookies tangerang, cookies sehat, cookies elegan, cookies instragramable,",
     url: "https://nianacake.online/",
     },
 

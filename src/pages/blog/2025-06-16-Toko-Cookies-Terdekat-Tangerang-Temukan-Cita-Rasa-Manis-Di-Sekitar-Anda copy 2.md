@@ -8,12 +8,11 @@ featuredimage: /img/blog11.jpeg
 description: Cari toko cookies premium di Tangerang? Nianacake'Tag menghadirkan cookies elegan homemade yang cocok untuk hadiah, hampers eksklusif, acara spesial, dan jamuan tamu. Order online, tanpa ribet!
 tags:
   - cookies premium Tangerang
-  - toko cookies untuk acara spesial
-  - hampers cookies elegan
+  - cookies spesial
+  - cookies elegan
   - cookies by order eksklusif
   - cookies untuk tamu penting
   - cookies handmade premium
-  - dessert plate elegan
   - cookies untuk kado ulang tahun
   - cookies untuk table setting
   - cookies kemasan mewah

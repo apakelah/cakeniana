@@ -12,7 +12,6 @@ tags:
   - Cookies Sehat Tanpa Pengawet
   - Hampers Cookies Tangerang
   - Cookies Instagramable
-  - Snack Anak Sehat
   - Cookies Buatan Rumah
   - Cookies Favorit Generasi Z
 
