@@ -7,13 +7,27 @@ featuredpost: true
 featuredimage: /img/blog4.jpeg
 description: 
 tags:
-  - Cookies Homemade Tangerang
-  - Cookies Premium Online
-  - Cookies Sehat Tanpa Pengawet
-  - Hampers Cookies Tangerang
-  - Cookies Instagramable
-  - Cookies Buatan Rumah
-  - Cookies Favorit Generasi Z
+- cookies homemade Tangerang
+
+- cookies sehat tanpa pengawet
+
+- cookies premium rumahan
+
+- cookies Instagramable
+
+- cookies untuk semua usia
+
+- cookies untuk hampers
+
+- cookies handmade sehat
+
+- jual cookies sehat Tangerang
+
+- cookies tanpa bahan kimia
+
+- cookies natural anak-anak
+
+
 
 ---
 

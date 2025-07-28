@@ -7,18 +7,29 @@ featuredpost: true
 featuredimage: /img/blog5.jpeg
 description: Nianacake'Tag hadir dengan cookies homemade premium yang bisa kamu pesan online tanpa ribet. Dipanggang langsung saat dipesan dan dikirim aman ke seluruh Indonesia. Enak, sehat, dan cocok untuk hampers.
 tags:
+  - order cookies online
+
+  - cookies online Tangerang
+
   - cookies homemade premium
-  - pesan cookies tanpa ribet
-  - cookies online enak terpercaya
-  - cookies sehat tanpa pengawet
-  - toko cookies Tangerang
-  - cookies untuk hampers dan hadiah
-  - order cookies dari rumah
-  - cookies eksklusif by order
+
+  - cookies tanpa pengawet
+
+  - jual cookies sehat
+
+  - pesan cookies enak online
+
+  - cookies fresh from oven
+
+  - cookies gift box custom
+
+  - cookies untuk hampers
+
+  - cookies untuk acara spesial
 
 ---
 
-![Nianacake'Tag Cookies](/img/blog5.jpeg)
+![Cookies Enak Tanpa Ribet, Order Online di Nianacake'Tag, Langsung dari Dapur ke Rumahmu](/img/blog5.jpeg)
 
 Ingin order cookies online yang rasanya enak, dibuat dari bahan premium, dan pengirimannya cepat sampai?  
 **Nianacake'Tag** adalah pilihan tepat untuk kamu yang mencari cookies homemade berkualitas yang bisa dipesan langsung dari rumah tanpa ribet.
