@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
     title: "Nianacake",
-    description:"Order cookies premium homemade di Nianacake'Tag. Fresh from oven, tanpa pengawet, dengan pilihan rasa lezat. Tersedia hampers eksklusif dan layanan pengiriman cepat ",
+    description:"Online shop cookies premium homemade hampers delivery fresh tanpa pengawet lezat",
     author:"nadzwa salsabilah",
-    keywords:"cookies,homade,cookies premium, cookies tangerang, cookies sehat, cookies elegan, cookies instragramable,",
+    keywords:"cookies, homemade, premium, hampers, delivery, fresh, tanpa pengawet, lezat, nianacake, nianacake online, nianacake id, nianacake indonesia, nianacake online shop, nianacake online store, nianacake online shop indonesia, nianacake online store indonesia, nianacake online shop id, nianacake online store id, nianacake id, nianacake indonesia, nianacake online, nianacake online shop, nianacake online store, nianacake online shop indonesia, nianacake online store indonesia, nianacake online shop id, nianacake online store id, cookies premium, cookies homemade, cookies hampers, cookies delivery, cookies fresh, cookies tanpa pengawet, cookies lezat, cookies nianacake, nianacake cookies, nianacake online cookies, nianacake online shop cookies, nianacake online store cookies, nianacake online shop indonesia cookies, nianacake online store indonesia cookies, nianacake online shop id cookies, nianacake online store id cookies,",
     url: "https://nianacake.online/",
     },
 
