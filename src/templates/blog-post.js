@@ -71,6 +71,27 @@ const BlogPost = ({ data }) => {
               name="description"
               content={`${post.frontmatter.description}`}
             />
+            <script type="application/ld+json">
+              {JSON.stringify({
+                "@context": "https://schema.org",
+                "@type": "BlogPosting",
+                "headline": post.frontmatter.title,
+                "description": post.frontmatter.description,
+                "datePublished": post.frontmatter.date,
+                "author": {
+                  "@type": "Organization",
+                  "name": "Nianacake"
+                },
+                "publisher": {
+                  "@type": "Organization",
+                  "name": "Nianacake",
+                  "logo": {
+                    "@type": "ImageObject",
+                    "url": "https://nianacake.online/img/logo.png"
+                  }
+                }
+              })}
+            </script>
           </Helmet>
         }
         tags={post.frontmatter.tags}
@@ -94,7 +115,7 @@ export const pageQuery = graphql`
       id
       html
       frontmatter {
-        date(formatString: "MMMM DD, YYYY")
+        date(formatString: "YYYY-MM-DD")
         title
         description
         tags
