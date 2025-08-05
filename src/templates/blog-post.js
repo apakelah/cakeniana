@@ -64,36 +64,68 @@ const BlogPost = ({ data }) => {
         content={post.html}
         contentComponent={HTMLContent}
         description={post.frontmatter.description}
-        helmet={
+        helmet={(
           <Helmet titleTemplate="%s | Blog">
-            <title>{`${post.frontmatter.title}`}</title>
-            <meta
-              name="description"
-              content={`${post.frontmatter.description}`}
+            <title>{post.frontmatter.title}</title>
+            <meta name="description" content={post.frontmatter.description} />
+            
+            {/* Canonical URL */}
+            <link
+              rel="canonical"
+              href={`https://nianacake.online${post.fields.slug}`}
             />
+
+            {/* Open Graph */}
+            <meta property="og:type" content="article" />
+            <meta property="og:title" content={post.frontmatter.title} />
+            <meta property="og:description" content={post.frontmatter.description} />
+            <meta
+              property="og:url"
+              content={`https://nianacake.online${post.fields.slug}`}
+            />
+            <meta
+              property="og:image"
+              content={`https://nianacake.online${post.frontmatter.featuredimage.publicURL}`}
+            />
+
+            {/* Twitter Card */}
+            <meta name="twitter:card" content="summary_large_image" />
+            <meta name="twitter:title" content={post.frontmatter.title} />
+            <meta name="twitter:description" content={post.frontmatter.description} />
+            <meta
+              name="twitter:image"
+              content={`https://nianacake.online${post.frontmatter.featuredimage.publicURL}`}
+            />
+
+            {/* Structured Data */}
             <script type="application/ld+json">
               {JSON.stringify({
                 "@context": "https://schema.org",
                 "@type": "BlogPosting",
-                "headline": post.frontmatter.title,
-                "description": post.frontmatter.description,
-                "datePublished": post.frontmatter.date,
-                "author": {
+                headline: post.frontmatter.title,
+                description: post.frontmatter.description,
+                datePublished: post.frontmatter.date,
+                author: {
                   "@type": "Organization",
-                  "name": "Nianacake"
+                  name: "Nianacake",
                 },
-                "publisher": {
+                publisher: {
                   "@type": "Organization",
-                  "name": "Nianacake",
-                  "logo": {
+                  name: "Nianacake",
+                  logo: {
                     "@type": "ImageObject",
-                    "url": "https://nianacake.online/img/logo.png"
-                  }
-                }
+                    url: "https://nianacake.online/img/logo.png",
+                  },
+                },
+                image: `https://nianacake.online${post.frontmatter.featuredimage.publicURL}`,
+                mainEntityOfPage: {
+                  "@type": "WebPage",
+                  "@id": `https://nianacake.online${post.fields.slug}`,
+                },
               })}
             </script>
           </Helmet>
-        }
+        )}
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
       />
@@ -114,11 +146,25 @@ export const pageQuery = graphql`
     markdownRemark(id: { eq: $id }) {
       id
       html
+      fields {
+        slug
+      }
       frontmatter {
         date(formatString: "YYYY-MM-DD")
         title
         description
         tags
+        featuredimage {
+          publicURL
+          childImageSharp {
+            gatsbyImageData(
+              width: 800
+              layout: CONSTRAINED
+              placeholder: BLURRED
+              formats: [AUTO, WEBP, AVIF]
+            )
+          }
+        }
       }
     }
   }
