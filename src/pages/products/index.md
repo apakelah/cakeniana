@@ -2,57 +2,58 @@
 templateKey: 'product-page'
 path: /products
 title:  
-image: /img/baner2.png
+image: /img/bannerpd.png
 heading: Momen manismu, kreasi lezat dari kami
 description: >-
- Di Nianacake'Tag, kami percaya bahwa setiap momen spesial layak dirayakan dengan kue terbaik. 
-  Sebagai toko kue online berbasis rumahan, kami menghadirkan beragam kue homemade seperti 
-  cookies lembut, kue kering klasik, bento cake, hingga macaroons kekinian. Semua dibuat dengan bahan premium, tanpa pengawet, dan penuh cinta.
-  Jadikan setiap gigitan dari Nianacake'Tag sebagai bagian dari kenangan manismu yang tak terlupakan.
+  Di Niana Cake & Dessert, kami percaya bahwa setiap momen spesial layak dirayakan dengan sajian terbaik.
+  Sebagai toko kue online berbasis rumahan di Tangerang, kami menghadirkan beragam cake homemade, dessert higienis, cookies renyah, hingga hampers kue elegan.
+  Semua dibuat dari bahan pilihan premium, tanpa pengawet, dan penuh cinta dari dapur kami.
 
 intro:
   blurbs:
     - image: /img/bentocake.jpg
       text: >
-       Nianacake'Tag menghadirkan Bento Cake, kue mini cantik dengan desain unik dan elegan. 
-        Cocok untuk ulang tahun, anniversary, hingga hadiah personal. Dibuat segar setiap hari 
-        dengan bahan premium dan tanpa pengawet, bento cake kami siap membuat momen spesialmu lebih berkesan.
+       Nikmati tren kekinian dengan bento cake homemade yang mungil, cantik, dan penuh warna.
+        Cocok sebagai kue ulang tahun mini, hadiah manis untuk pasangan, atau camilan spesial.
+        Dibuat dari bahan pilihan premium dengan proses rumahan yang higienis dan penuh cinta.
 
-    - image: /img/nastarr.jpeg
+    - image: /img/pd1.jpeg
       text: >
-        Nastar klasik dari Nianacake'Tag hadir dengan isian nanas legit dan tekstur lumer di mulut. 
-        Dibuat dari bahan berkualitas dan tanpa pengawet, nastar ini menjadi favorit keluarga di setiap perayaan. 
-        Ideal untuk hampers, bingkisan lebaran, atau camilan keluarga
-    - image: /img/macaroons.jpeg
+        Lezatnya chocolate fudge cake homemade Tangerang dengan cokelat premium yang lumer di setiap gigitan.
+        Kue ini cocok untuk kue ulang tahun, perayaan spesial, hingga hampers elegan.
+        Diproses secara higienis tanpa pengawet, sehingga aman dan nikmat untuk semua kalangan.
+
+    - image: /img/pd2.png
       text: >
-       Camilan manis asal Prancis kini hadir di Nianacake'Tag. Macaroons kami memiliki kulit renyah dan isi lembut 
-        dengan varian rasa seperti cokelat, vanila, pistachio, dan stroberi. Dibuat secara homemade dan selalu fresh, 
-        cocok untuk hadiah atau pelengkap jamuan spesial.
-    - image: /img/kk.jpeg
+       Rasakan kelezatan soft cookies homemade yang renyah di luar dan chewy di dalam.
+        Tersedia dalam berbagai rasa, cocok untuk camilan, hampers lebaran, atau hadiah manis.
+        Dibuat secara rumahan, higienis, dan tanpa bahan tambahan berbahaya.
+
+    - image: /img/desserts1.png
       text: >
-       Kue Kacang dari Nianacake'Tag adalah camilan tradisional dengan cita rasa khas. 
-        Dibuat dari kacang pilihan dengan rasa gurih dan aroma yang menggoda, tanpa bahan tambahan berbahaya. 
-        Cocok untuk hari raya, hampers, atau sekadar teman santai di rumah.
+       Segarnya stroberi berpadu dengan lembutnya keju dalam strawberry cheesecake  homemade.
+        Praktis, higienis, dan pas untuk dessert harian, hampers kue modern, maupun hidangan pesta.
+        Semua dibuat tanpa bahan pengawet, langsung dari dapur Niana Cake & Dessert Tangerang.
   heading: 
   description: >
     
 main:
-  heading: Menu Pilihan Terbaik di Nianacake'Tag
+  heading: Menu Pilihan Terbaik di Niana Cake & Dessert
   description: >
-    Kami menawarkan berbagai pilihan cake, kue kering, dan pastry dengan rasa istimewa. 
-    Setiap produk dibuat secara homemade menggunakan bahan berkualitas tinggi, tanpa pengawet, dan diproses dengan hati-hati. 
-    Mulai dari bolu gulung, brownies moist, hingga cookies renyah semua siap membuat momenmu semakin bermakna.
+   Di Niana Cake & Dessert Tangerang, kamu bisa menemukan berbagai pilihan cake homemade, kue kering premium, dessert higienis, dan pastry rumahan dengan cita rasa istimewa.
+    Semua produk dibuat langsung di dapur rumahan dengan bahan pilihan berkualitas, tanpa pengawet, dan penuh ketelitian.
 
+    Mulai dari bolu gulung lembut, brownies moist cokelat, bento cake kekinian, hingga cookies renyah, semuanya siap melengkapi momen spesial, hampers kue, maupun camilan harianmu.
  
   image1:
     alt: Bolu gulung dengan lapisan krim dan hiasan gula halus
-    image: /img/bolu gulung.jpeg
+    image: /img/pd4.png
   image2:
     alt: Potongan brownies cokelat lembut dengan tekstur moist
-    image: /img/brownies2.png
+    image: /img/pd3.png
   image3:
     alt: Sepiring cookies renyah dengan taburan cokelat di atas piring putih
-    image: /img/coky.jpeg
+    image: /img/brownies2.png
 testimonials:
   - author: Samantha Lavoie
     quote: >-
@@ -60,13 +61,13 @@ testimonials:
   - author: Daniel Thompson
     quote: >-
       If you’re looking for the best cakes in town, this is the place to go. I love how they combine creativity and quality in every slice!
-full_image: /img/baner7.jpeg
+full_image: /img/go2.png
 pricing:
   heading: Paket Langganan Bulanan
   description: >-
-    Dapatkan kue segar dan lezat setiap bulan dengan paket langganan dari Nianacake'Tag. 
-    Cocok untuk kamu yang ingin selalu punya stok camilan premium di rumah, atau untuk mengisi kebutuhan hampers reguler. 
-    Hubungi kami untuk informasi lengkap, pilihan paket, dan metode pembayaran yang tersedia.
+    Nikmati kelezatan kue homemade segar dan higienis setiap bulan dengan paket langganan dari Niana Cake & Dessert Tangerang.
+    Cocok untuk kamu yang ingin selalu punya stok camilan premium di rumah, kebutuhan hampers reguler, atau hadiah manis untuk orang tersayang.
+     Hubungi kami untuk detail paket, pilihan menu, dan metode pembayaran yang tersedia
   plans:
 
     - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.

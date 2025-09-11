@@ -1,39 +1,42 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: Tentang Niana Cake'tag
+title: Tentang Niana Cake & Dessert Tangerang
+description: Niana Cake & Dessert Tangerang adalah toko kue online yang menghadirkan beragam cake dan dessert homemade berkualitas tinggi. Aman, lezat, dan cocok untuk hadiah atau momen spesial.
+tags:
+  - about
+  - niana cake & dessert tangerang
+  - cake homemade
+  - dessert premium
+  - kue berkualitas
 ---
 
-Niana Cake'tag adalah toko kue online yang berbasis di Tangerang, menghadirkan aneka pilihan cake dan kue kering homemade yang dibuat dengan sepenuh hati dan bahan berkualitas tinggi. Kami hadir untuk menjawab kebutuhan masyarakat akan kue lezat, aman, dan estetis, baik untuk konsumsi pribadi maupun sebagai hadiah atau hampers.
+Niana Cake & Dessert Tangerang adalah **toko kue online berbasis di Tangerang**, menghadirkan **beragam cake dan dessert homemade** yang dibuat dengan sepenuh hati dan bahan berkualitas tinggi. Kami hadir untuk menjawab kebutuhan masyarakat akan kue yang **lezat, aman, dan estetis**, baik untuk konsumsi pribadi maupun sebagai hadiah atau hampers.
 
-## Spesialisasi Produk Kami
-    
-**1. Cookies Homemade Premium**
-    Kami menawarkan berbagai varian cookies, seperti Red Velvet Cookies, Choco Crunch, hingga classic butter cookies. Semua dibuat tanpa pengawet, menggunakan mentega asli dan bahan berkualitas untuk hasil yang renyah di luar dan lembut di dalam.
+---
 
-**2. Cake Lembut dan Moist**
-    Kami membuat cake dengan tekstur yang lembut, rasa yang seimbang, dan tampilan menarik. Cocok untuk ulang tahun, acara keluarga, hingga perayaan spesial. Tersedia dalam bentuk whole cake maupun mini cake yang praktis.
+## Beragam Cake dan Dessert
 
-**3. Dessert Box Kekinian**
-    Produk andalan kami yang sangat digemari semua kalangan gen. Perpaduan layer cake, mousse lembut, dan topping creamy dalam satu box. Hadir dalam berbagai rasa dan selalu dibuat fresh sesuai pesanan.
+Kami menyediakan berbagai **cake, dessert box, dan camilan manis** yang cocok untuk berbagai kesempatan. Setiap produk dibuat dengan bahan berkualitas, proses yang higienis, dan tampilan menarik sehingga dapat dinikmati sendiri atau dijadikan hadiah untuk orang terdekat.
 
-**4. Brownies Bite dan Variasi Camilan Cokelat**
-    Untuk pencinta cokelat, kami menghadirkan brownies bite fudgy dengan cokelat premium yang lumer di mulut. Ukurannya pas untuk camilan ringan, oleh-oleh, atau isi hampers.
+- **Cake lembut dan moist** untuk ulang tahun, acara keluarga, atau perayaan spesial  
+- **Dessert box elegan** dengan kombinasi layer cake, mousse, dan topping premium  
+- **Camilan manis dan kue kering** untuk hampers atau suguhan spesial  
+- **Produk custom** sesuai permintaan untuk momen istimewa  
 
-**5. Kue Kering Spesial Hari Raya**
-    Kastengel, nastar, dan putri salju dengan resep klasik yang ditingkatkan menggunakan keju dan bahan premium. Cocok untuk lebaran, hampers kantor, atau suguhan spesial.
+---
 
-**6. Kue Custom Sesuai Permintaan**
-    Kami menerima pemesanan kue custom dengan desain dan rasa yang disesuaikan dengan kebutuhan pelanggan. Ideal untuk ulang tahun, bridal shower, acara kantor, atau momen istimewa lainnya.
+## Kenapa Memilih Niana Cake & Dessert Tangerang?
 
-## Kenapa Memilih Niana Cake'tag?
-- Semua produk homemade dan tanpa pengawet
-- Dipanggang segar setiap hari, bukan stok lama
-- Menggunakan bahan premium yang aman dan halal
-- Cocok untuk semua kalangan usia
-- Pelayanan cepat dan ramah, bisa dipesan melalui website resmi: www.nianastore.biz.id
+- Semua produk **homemade** dan tanpa pengawet  
+- Dipanggang **segar setiap hari**, bukan stok lama  
+- Menggunakan **bahan premium** yang aman dan halal  
+- Cocok untuk **semua kalangan usia**  
+- Pelayanan **cepat dan ramah**, bisa dipesan melalui website resmi: [www.nianacake.online](https://www.nianacake.online)  
 
-Kami percaya bahwa kue bukan sekadar makanan penutup, tapi bagian dari momen yang ingin dikenang. Karena itu, setiap produk kami dibuat dengan perhatian penuh terhadap rasa, kualitas, dan tampilan.
+Kami percaya bahwa kue dan dessert bukan sekadar makanan penutup, tapi bagian dari **momen yang ingin dikenang**. Karena itu, setiap produk dibuat dengan **perhatian penuh terhadap rasa, kualitas, dan tampilan**.
 
-## Niana Cake'tag
-*Cake dan Cookies Homemade Premium, Manisnya Selalu Dikenang.*
+---
+
+## Niana Cake & Dessert Tangerang
+**Beragam Cake dan Dessert Homemade Premium, Manisnya Selalu Dikenang.**

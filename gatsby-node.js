@@ -2,75 +2,6 @@ const _ = require('lodash')
 const path = require('path')
 const { createFilePath } = require('gatsby-source-filesystem')
 
-exports.createPages = ({ actions, graphql }) => {
-  const { createPage } = actions
-
-  return graphql(`
-    {
-      allMarkdownRemark(limit: 1000) {
-        edges {
-          node {
-            id
-            fields {
-              slug
-            }
-            frontmatter {
-              tags
-              templateKey
-            }
-          }
-        }
-      }
-    }
-  `).then((result) => {
-    if (result.errors) {
-      result.errors.forEach((e) => console.error(e.toString()))
-      return Promise.reject(result.errors)
-    }
-
-    const posts = result.data.allMarkdownRemark.edges
-
-    posts.forEach((edge) => {
-      const id = edge.node.id
-      createPage({
-        path: edge.node.fields.slug,
-        tags: edge.node.frontmatter.tags,
-        component: path.resolve(
-          `src/templates/${String(edge.node.frontmatter.templateKey)}.js`
-        ),
-        // additional data can be passed via context
-        context: {
-          id,
-        },
-      })
-    })
-
-    // Tag pages:
-    let tags = []
-    // Iterate through each post, putting all found tags into `tags`
-    posts.forEach((edge) => {
-      if (_.get(edge, `node.frontmatter.tags`)) {
-        tags = tags.concat(edge.node.frontmatter.tags)
-      }
-    })
-    // Eliminate duplicate tags
-    tags = _.uniq(tags)
-
-    // Make tag pages
-    tags.forEach((tag) => {
-      const tagPath = `/tags/${_.kebabCase(tag)}/`
-
-      createPage({
-        path: tagPath,
-        component: path.resolve(`src/templates/tags.js`),
-        context: {
-          tag,
-        },
-      })
-    })
-  })
-}
-
 exports.onCreateNode = ({ node, actions, getNode }) => {
   const { createNodeField } = actions
 
@@ -82,4 +13,75 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
       value,
     })
   }
+}
+
+exports.createPages = async ({ actions, graphql, reporter }) => {
+  const { createPage } = actions
+
+  const result = await graphql(`
+    {
+      allMarkdownRemark(limit: 1000) {
+        edges {
+          node {
+            id
+            fields {
+              slug
+            }
+            frontmatter {
+              title
+              templateKey
+              tags
+            }
+          }
+        }
+      }
+    }
+  `)
+
+  if (result.errors) {
+    reporter.panicOnBuild('Error loading Markdown files', result.errors)
+    return
+  }
+
+  const posts = result.data.allMarkdownRemark.edges
+
+  // Create pages from Markdown
+  posts.forEach(({ node }) => {
+    const { id, fields: { slug }, frontmatter: { templateKey, title } } = node
+
+    if (!templateKey) {
+      reporter.warn(`Markdown "${title || id}" tidak memiliki templateKey. Halaman tidak akan dibuat.`)
+      return
+    }
+
+    const templatePath = path.resolve(`src/templates/${templateKey}.js`)
+
+    createPage({
+      path: slug,
+      component: templatePath,
+      context: { id },
+    })
+
+    reporter.info(`Page dibuat: ${slug} menggunakan template: ${templateKey}`)
+  })
+
+  // Create tag pages
+  let tags = []
+  posts.forEach(({ node }) => {
+    if (_.get(node, 'frontmatter.tags')) {
+      tags = tags.concat(node.frontmatter.tags)
+    }
+  })
+
+  tags = _.uniq(tags.filter(tag => tag)) // hapus tag duplikat & kosong
+
+  tags.forEach(tag => {
+    const tagPath = `/tags/${_.kebabCase(tag)}/`
+    createPage({
+      path: tagPath,
+      component: path.resolve(`src/templates/tags.js`),
+      context: { tag },
+    })
+    reporter.info(`Tag page dibuat: ${tagPath}`)
+  })
 }

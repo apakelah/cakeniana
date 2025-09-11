@@ -1,67 +1,53 @@
 ---
 templateKey: index-page
-title: 
-image: /img/baner1.png
-# heading: Kenalan dengan Niana Cake'tag
+title: Niana Cake & Dessert Tangerang
+image: /img/bannner2.png
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: SELAMAT DATANG DI WEBSITE Nianacake'TAG
+  title: SELAMAT DATANG DI NIANA CAKE & DESSERT TANGERANG
   description: >-
-    Nianacake'Tag bukan sekadar toko kue online biasa. Ini adalah wujud cinta dari dapur rumahan di Tangerang yang menghadirkan rasa manis penuh kenangan. 
-    Dari cookies renyah hingga cake lembut yang lumer di mulut, semua dibuat secara homemade tanpa pengawet dan dengan bahan-bahan pilihan yang aman dikonsumsi oleh semua kalangan.
-
-    
-    Kami percaya, setiap kue bukan hanya soal rasa, tapi tentang momen hangat yang tak tergantikan. Itulah kenapa proses kami bukan sekadar produksi  tapi ritual. Mulai dari menakar tepung, mencampur adonan, memanggang dengan hati-hati, hingga menghias dengan penuh detail, semuanya kami lakukan secara manual, dengan tangan-tangan terampil dan hati yang mencintai proses.
-
-    Cocok untuk hadiah, hampers, camilan sore, atau perayaan hari besar. Kami tidak menjual produk massal  kami mengirimkan kebahagiaan yang bisa kamu cicipi.
-
-
+    Niana Cake & Dessert Tangerang adalah toko kue online yang menghadirkan beragam cake homemade, dessert higienis, cookies premium, dan hampers kue spesial. Semua dibuat dengan bahan pilihan, tanpa pengawet, dan diproses secara rumahan sehingga aman untuk semua kalangan.
 
 description: >-
+  Kami percaya setiap kue dan dessert bukan hanya soal rasa manis, tapi juga tentang **momen berharga**. Dari **kue ulang tahun, dessert box, hingga hampers kue**, semuanya dibuat dengan penuh cinta dan ketelitian.
 
-  
-subdescription: 
-  Tidak hanya cookies, kami juga menyediakan beragam pilihan cake premium buatan rumahan yang cocok untuk segala usia dan suasana.
-
-  Mulai dari cookies yang renyah dengan rasa kekinian, cake lembut yang pas untuk perayaan ulang tahun, hingga dessert box manis yang cocok untuk camilan sore, semua dibuat dengan penuh ketulusan dan tanpa bahan pengawet. Setiap produknya diracik menggunakan bahan berkualitas dan proses rumahan yang higienis serta penuh cinta.
-
-  Niana Caketag cocok untuk siapa saja yang menginginkan kue enak dengan rasa autentik dan tampilan menarik. Baik untuk anak-anak, remaja, hingga orang dewasa, semua bisa menikmati kelezatan kue dari Niana Caketag. Produk kami juga ideal untuk berbagai kebutuhan seperti hampers, bingkisan ulang tahun, oleh-oleh, atau sebagai teman minum teh di sore hari.
-
-
+subdescription: >
+  Temukan berbagai varian cake lembut, dessert segar, dan cookies rumahan higienis yang siap menemani hari-harimu. Cocok untuk hadiah, hampers, camilan sore, atau perayaan hari besar. Kami tidak menjual produk massal—kami mengirimkan kebahagiaan homemade yang bisa kamu cicipi.
 
 intro:
   blurbs:
-    - image: /img/redvelvet1.png
+    - image: /img/cake1.png
       text: >
-        Red Velvet Cookies dari Niana Caketag adalah perpaduan manis, lembut, dan renyah dalam satu gigitan. Kue kering ini mencerminkan komitmen kami dalam menghadirkan produk homemade tanpa pengawet dengan kualitas rasa yang premium. Dibuat dari bahan pilihan dengan sentuhan cokelat khas red velvet, cookies ini cocok untuk camilan harian atau bingkisan spesial yang manis dan elegan.
+        Rasakan kelezatan vanilla blossom cake homemade Tangerang dengan tekstur lembut dan aroma vanila harum. Dihiasi topping bunga edible cantik, kue ini cocok untuk kue ulang tahun, dessert box, atau hampers elegan. Semua dibuat higienis dan rumahan, tanpa pengawet, menggunakan bahan premium.
 
     - image: /img/cake2.png
       text: >
-        Dessert Box dari Niana Caketag membawa nuansa manis yang kekinian dalam satu kotak lengkap. Terdiri dari layer cake, mousse, dan topping lembut yang meleleh di mulut, dessert ini menggambarkan inovasi rasa khas homemade kami. Dibuat tanpa bahan pengawet dan cocok untuk semua usia, produk ini sempurna untuk hadiah, hampers, atau momen manis bersama orang tercinta. 
+        Lezatnya chocolate fudge cake homemade dengan cokelat premium yang meleleh di setiap gigitan. Kue ini menghadirkan rasa manis seimbang dan tekstur fudgy lembut, pas untuk kue ulang tahun, dessert box, maupun sajian keluarga. Diproses higienis, sehat, dan tanpa pengawet di dapur Niana Cake & Dessert Tangerang.
 
-    - image: /img/brownies2.png
+    - image: /img/desserts1.png
       text: >
-        Brownies Bite Niana Caketag dibuat untuk kamu yang mencari camilan fudgy dan mewah dalam ukuran praktis. Dibalut dengan cokelat premium dan tekstur super moist, setiap gigitan menggambarkan kualitas dan rasa yang menjadi ciri khas Niana Caketag. Cocok untuk sajian santai, suguhan tamu, hingga hadiah premium bernuansa rumahan.
+        Nikmati sensasi segar dari strawberry cheesecake jar homemade dengan lapisan keju lembut dan stroberi asli manis-asam seimbang. Cocok untuk dessert harian, hampers kue modern, atau hidangan pesta. Dibuat di dapur Niana Cake & Dessert Tangerang dengan bahan alami, higienis, dan sehat.
 
-    - image: /img/castangle3.png
+    - image: /img/desserts2.png
       text: >
-        Kastengel dari Niana Caketag adalah representasi dari kue kering klasik yang naik kelas. Dibuat dengan campuran keju edam dan cheddar asli, kastengel ini memiliki tekstur renyah dan rasa gurih yang khas. Cocok disajikan saat hari raya, dalam hampers spesial, atau dinikmati sebagai camilan mewah harian. Inilah salah satu bentuk cinta kami dalam menghadirkan rasa rumahan yang premium.
-        
+        Segarkan harimu dengan mango pudding homemade Tangerang yang manis, lembut, dan penuh rasa alami. Dibuat dari mangga segar pilihan tanpa pengawet, cocok untuk dessert box, hampers segar, atau camilan sehat keluarga. Diproses higienis dan rumahan sehingga aman dinikmati semua kalangan.
+
   heading: Apa yang Kami Tawarkan
   description: >
-     Niana Caketag adalah tempat terbaik bagi pecinta kue rumahan yang ingin menikmati rasa autentik dari cake dan cookies buatan sendiri tanpa bahan pengawet. Kami mengutamakan kualitas, rasa, dan sentuhan personal dalam setiap produk. Lebih dari sekadar toko kue online, kami ingin menghadirkan pengalaman rasa yang menghangatkan hati dan cocok untuk semua kalangan.
+    Niana Cake & Dessert Tangerang adalah pilihan terbaik bagi pecinta cake, cookies, dan dessert homemade yang ingin menikmati rasa autentik dan higienis. Kami selalu mengutamakan kualitas, rasa, dan sentuhan personal di setiap produk. Lebih dari sekadar toko kue online, kami menghadirkan pengalaman manis yang hangat untuk semua kalangan.
 
 main:
   heading: Kelezatan Homemade Tanpa Kompromi
   description: >
-    Setiap kue dari Niana Caketag dibuat dengan standar tinggi, mulai dari pemilihan bahan baku hingga proses pengemasan. Kami percaya bahwa kelezatan sejati berasal dari ketulusan dalam membuat dan menyajikan. Semua produk kami dibuat di dapur rumahan dengan tangan terampil dan tanpa bahan tambahan berbahaya, untuk memastikan rasa dan kualitas terbaik sampai ke meja kamu.
+    Setiap produk dari Niana Cake & Dessert Tangerang dibuat dengan standar tinggi mulai dari pemilihan bahan segar, proses higienis, hingga pengemasan rapi. Kami percaya kelezatan sejati lahir dari ketulusan dalam menyajikan. Semua dibuat di dapur rumahan dengan tangan terampil, tanpa bahan tambahan berbahaya, agar setiap pelanggan mendapatkan cake, dessert, dan cookies premium terbaik.
+
   image1:
-    alt: Tampilan dekat kue macaron warna-warni yang menggugah selera
+    alt: Tampilan dekat cake dan dessert homemade warna-warni yang menggugah selera
     image: /img/macaron.jpg
   image2:
-    alt: Kue macaron disajikan dalam cangkir hijau, cocok untuk momen santai
+    alt: Cake dan dessert homemade disajikan dalam cangkir hijau, cocok untuk momen santai
     image: /img/macaron2.jpg
   image3:
-    alt: Brownies lembut dan moist, favorit sepanjang masa
+    alt: Brownies lembut dan moist, favorit sepanjang masa dari Niana Cake & Dessert Tangerang
     image: /img/brownies.png
 ---
