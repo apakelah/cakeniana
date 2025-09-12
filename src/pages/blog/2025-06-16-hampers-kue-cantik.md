@@ -8,13 +8,23 @@ featuredimage: /img/blog3.jpeg
 description: Hampers kue cantik untuk keluarga dan teman. Setiap kue dibuat dengan bahan berkualitas dan higienis dari Cake & Dessert Niana.
 tags:
   - hampers kue
+  - hampers kue cantik
+  - hampers kue elegan
+  - hampers kue untuk ulang tahun
+  - hampers kue untuk keluarga
+  - hadiah hampers kue
   - kue cantik
-  - kue berkualitas
   - kue higienis
+  - kue berkualitas
   - kue homemade
-  - hadiah kue
   - box kue cantik
-  - hampers untuk keluarga
+  - kue dekorasi elegan
+  - dessert box cantik
+  - hampers lebaran
+  - hampers ulang tahun
+  - hampers kue personal
+  - hampers kue Niana
+
 ---
 
 ![Hampers kue cantik Cake & Dessert Niana, dibuat dari bahan berkualitas dan higienis](/img/blog3.jpeg)

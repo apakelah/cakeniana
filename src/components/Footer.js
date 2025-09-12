@@ -12,11 +12,12 @@ const Footer = () => {
     return (
       <footer className="footer has-background-black has-text-white-ter">
         <div className="content has-text-centered">
-          <img
-            src={logo}
-            alt="NIANA"
-            style={{ width: "14em", height: "10em" }}
+          <img 
+          src={logo} 
+          alt="Niana Bakery Logo" 
+          style={{ width: "100%", maxWidth: "150px", height: "auto" }} 
           />
+
         </div>
         <div className="content has-text-centered has-background-black has-text-white-ter">
           <div className="container has-background-black has-text-white-ter">

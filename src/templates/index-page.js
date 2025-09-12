@@ -22,7 +22,7 @@ export const IndexPageTemplate = ({
 
   return (
     <div>
-      <FullWidthImage img={heroImage}  />
+      <FullWidthImage img={heroImage} />
       <section className="section section--gradient">
         <div className="container">
           <div className="section">
@@ -31,22 +31,27 @@ export const IndexPageTemplate = ({
                 <div className="content">
                   <div className="content">
                     <div className="tile">
+                      {/* H1 = judul utama */}
                       <h1 className="title">{mainpitch.title}</h1>
                     </div>
                     <div className="tile">
                       <p>{mainpitch.description}</p>
                     </div>
                   </div>
+
                   <div className="columns">
                     <div className="column is-12">
-                      <h3 className="has-text-weight-semibold is-size-2">
+                      {/* Ganti h3 → h2 untuk urutan heading benar */}
+                      <h2 className="has-text-weight-semibold is-size-2">
                         {heading}
-                      </h3>
+                      </h2>
                       <p>{description}</p>
-                    <p>{subdescription}</p>
+                      <p>{subdescription}</p>
                     </div>
                   </div>
+
                   <Features gridItems={intro.blurbs} />
+
                   <div className="columns">
                     <div className="column is-12 has-text-centered">
                       <Link className="btn" to="/products">
@@ -54,10 +59,12 @@ export const IndexPageTemplate = ({
                       </Link>
                     </div>
                   </div>
+
                   <div className="column is-12">
-                    <h3 className="has-text-weight-semibold is-size-2">
+                    {/* Ganti h3 → h2 */}
+                    <h2 className="has-text-weight-semibold is-size-2">
                       Latest stories
-                    </h3>
+                    </h2>
                     <BlogRoll />
                     <div className="column is-12 has-text-centered">
                       <Link className="btn" to="/blog">
@@ -97,7 +104,6 @@ const IndexPage = ({ data }) => {
         image={frontmatter.image}
         title={frontmatter.title}
         heading={frontmatter.heading}
-       
         mainpitch={frontmatter.mainpitch}
         description={frontmatter.description}
         subdescription={frontmatter.subdescription}

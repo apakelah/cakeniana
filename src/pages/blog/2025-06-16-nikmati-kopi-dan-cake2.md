@@ -8,15 +8,23 @@ featuredimage: /img/blog4.jpeg
 description: Nikmati waktu santai dengan kopi nikmat dan cake homemade higienis dari Cake & Dessert Niana. Kombinasi lezat dan berkualitas untuk momen spesial bersama keluarga dan teman.
 tags:
   - cake homemade
-  - kopi nikmat
+  - cake higienis
+  - cake lezat
+  - cake sehat
+  - cake untuk santai
   - Cake & Dessert Niana
   - combo kopi dan cake
-  - cake higienis
-  - kue untuk santai
-  - pengalaman santai dengan kopi dan cake
-  - cake sehat
+  - kopi nikmat
   - kopi segar
+  - kopi hitam
+  - latte creamy
+  - kopi dan kue
   - minuman dan kue
+  - waktu santai dengan kopi dan cake
+  - sarapan dengan cake
+  - sore santai dengan kopi
+  - momen santai bersama keluarga
+  - teman ngopi
 ---
 
 ![Kopi segar dan cake homemade higienis dari Cake & Dessert Niana](/img/blog4.jpeg)
