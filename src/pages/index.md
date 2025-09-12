@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Niana Cake & Dessert Tangerang
-image: /img/bannner2.png
+image: /img/home.png
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: SELAMAT DATANG DI NIANA CAKE & DESSERT TANGERANG
@@ -9,10 +9,10 @@ mainpitch:
     Niana Cake & Dessert Tangerang adalah toko kue online yang menghadirkan beragam cake homemade, dessert higienis, cookies premium, dan hampers kue spesial. Semua dibuat dengan bahan pilihan, tanpa pengawet, dan diproses secara rumahan sehingga aman untuk semua kalangan.
 
 description: >-
-  Kami percaya setiap kue dan dessert bukan hanya soal rasa manis, tapi juga tentang **momen berharga**. Dari **kue ulang tahun, dessert box, hingga hampers kue**, semuanya dibuat dengan penuh cinta dan ketelitian.
+  Kami percaya setiap kue dan dessert bukan hanya soal rasa manis, tapi juga tentang momen berharga. Dari kue ulang tahun, dessert box, hingga hampers kue, semuanya dibuat dengan penuh cinta dan ketelitian.
 
 subdescription: >
-  Temukan berbagai varian cake lembut, dessert segar, dan cookies rumahan higienis yang siap menemani hari-harimu. Cocok untuk hadiah, hampers, camilan sore, atau perayaan hari besar. Kami tidak menjual produk massal—kami mengirimkan kebahagiaan homemade yang bisa kamu cicipi.
+  Temukan berbagai varian cake lembut, dessert segar, dan cookies rumahan higienis yang siap menemani hari-harimu. Cocok untuk hadiah, hampers, camilan sore, atau perayaan hari besar. Kami tidak menjual produk massal kami mengirimkan kebahagiaan homemade yang bisa kamu cicipi.
 
 intro:
   blurbs:

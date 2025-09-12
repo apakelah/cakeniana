@@ -2,7 +2,7 @@
 templateKey: 'product-page'
 path: /products
 title:  
-image: /img/bannerpd.png
+image: /img/product.png
 heading: Momen manismu, kreasi lezat dari kami
 description: >-
   Di Niana Cake & Dessert, kami percaya bahwa setiap momen spesial layak dirayakan dengan sajian terbaik.
